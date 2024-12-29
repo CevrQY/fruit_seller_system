@@ -1,0 +1,22 @@
+# 本程序运行需要安装的必要文件库，安装方法：
+# 在本程序文件夹下打开命令提示符，运行：pip install -r requirements.txt
+
+pyqt5
+scikit-build
+gitpython
+ipython
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.1
+Pillow>=7.1.2
+psutil
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+thop>=0.1.1
+torch>=1.7.0
+torchvision>=0.8.1
+tqdm>=4.64.0
+pandas>=1.1.4
+seaborn>=0.11.0
+tritonclient[all]~=2.24.0
